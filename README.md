@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi! 👋
 
-Neural Nets and Robots 🧠
+Neural Nets and Robots 🦾🧠🦾
 
 <!--
 **vittoriomta/vittoriomta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
