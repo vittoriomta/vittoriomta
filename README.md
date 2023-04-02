@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hi 👋
 
 Passionate about neural nets and robots 🦾🧠🦾
 
